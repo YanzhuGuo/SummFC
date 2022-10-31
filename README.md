@@ -1,2 +1,2 @@
 # SummFC
-## Coming soon!
+Coming soon!
